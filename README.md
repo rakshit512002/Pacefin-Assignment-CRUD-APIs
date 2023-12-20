@@ -29,8 +29,11 @@ Ensure that you have the following prerequisites installed on your machine:
 # dotenv file
 
 PORT=3000
-DB_NAME="ProjectHTPDatabase"
+
+DB_NAME="your-database-name"
+
 DB_USER="your-username"
+
 DB_PASS="your-password"
 
 
@@ -51,10 +54,17 @@ DELETE /api/users/:id: Delete a user by ID.
 I have used the following dependencies to build this project - 
 
 body-parser: Middleware to parse HTTP request bodies.
+
 cors: Middleware for enabling Cross-Origin Resource Sharing.
+
 dotenv: Loads environment variables from a .env file.
+
 express: Web framework for building APIs.
+
 express-async-handler: Simplifies error handling in asynchronous express routes.
+
 mongoose: MongoDB object modeling for Node.js.
+
 morgan: HTTP request logger middleware.
+
 nodemon: Utility that monitors for changes and restarts the server.
