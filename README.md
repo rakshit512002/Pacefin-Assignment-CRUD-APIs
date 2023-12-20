@@ -7,7 +7,7 @@ This repository marks my submission for the Pacefin Assignment for the Bckend de
 Deployment Link For Testing Purposes - 
 https://pacefin-assignment-crud-apis.onrender.com
 
-I have also included the postman testing .json file for testing refrence purposes.
+I have also included Pacefin-Assignment.postman_collection.json file for testing refrence purposes.
 
 Here I have develop a basic RESTful API allowing CRUD (Create, Read, Update, Delete) operations on a simple
 data model and integrated it with a database.
