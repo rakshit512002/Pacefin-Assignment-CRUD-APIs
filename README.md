@@ -38,9 +38,13 @@ DB_PASS="your-password"
 A list of the available API endpoints and a brief description of each -
 
 POST /api/users/create: Create a new user.
+
 GET /api/users/getAll: Retrieve a list of all users.
+
 GET /api/users/:id: Retrieve details of a specific user by ID.
+
 PUT /api/users/:id: Update details of a specific user.
+
 DELETE /api/users/:id: Delete a user by ID.
 
 # Dependencies
